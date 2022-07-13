@@ -1,0 +1,7 @@
+    1                          Coca     15000        15
+    2                        Coffee     12000        12
+    3                        Revive     10000        11
+    4                         Pepsi     15000        12
+    5                         Lavie     10000        13
+    6                       nuoccam     15000        12
+    7                       nuocmia     15000        12

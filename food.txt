@@ -1,0 +1,5 @@
+    1                         Snack     15000        10
+    2                       Banhbao      9000        15
+    3                       xucxich     10000        11
+    4                         pizza     12000        15
+    5                           Kem     10000        12
